@@ -1,8 +1,5 @@
-# Data Structures:
+Data Structures List:
 
-1. Array
-2. Linked List
-3. Stack
-4. Queue
-5. Tree
-6. Heap
+Wikipedia Page:
+
+https://en.wikipedia.org/wiki/List_of_data_structures
